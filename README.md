@@ -1,9 +1,14 @@
 # EIGENVALUES-AND-EIGENVECTORS
+
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
+
+
 ## Equipment’s required:
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
+
 ## Algorithm:
 ### Step1 : import numpy library
 ### Step 2: numpy array has been declared using a 3 x 3 matrix
