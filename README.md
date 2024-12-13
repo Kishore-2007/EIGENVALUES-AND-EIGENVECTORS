@@ -20,14 +20,9 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 
 ```python
 
-
-
-
-
 #Program to find the eigen values and eigen vectors.
 #Developed by: KISHORE.S
 #RegisterNumber: 24900594
-
 
 
 import numpy as np
