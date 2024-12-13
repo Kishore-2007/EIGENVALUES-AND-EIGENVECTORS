@@ -25,6 +25,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 #RegisterNumber: 24900594
 
 
+
 import numpy as np
 a=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 values,vectors=np.linalg.eig(a)
